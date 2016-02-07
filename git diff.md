@@ -33,3 +33,4 @@ The previous output shows that the conflict covers lines 5 and 6, where delibera
     Line 4 alternate stuff
     Line 5 stuff
     Line 6 alternate stuff
+
